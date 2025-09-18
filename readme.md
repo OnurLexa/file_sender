@@ -128,18 +128,5 @@ build/
 .DS_Store
 ```
 
----
 
-## examples/sample_config.md
-
-A short config example and notes about SMTP providers (Gmail, Outlook, others) and application-password hints.
-
----
-
-You can download or copy these files into your repository structure. If you want, I can also:
-- Generate a ZIP with this skeleton (source files + READMEs)
-- Create a ready-to-commit GitHub repository layout
-- Produce an executable with PyInstaller and add release instructions
-
-Tell me which one you want and I will prepare it.
 
